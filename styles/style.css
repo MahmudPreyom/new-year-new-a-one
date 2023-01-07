@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    font-family: sans-serif;
+}
+header{
+    background-image: url(../images/banner/banner3.png);
+    height: 800px;
+    background-repeat: no-repeat;
+}
+.title{
+    padding-top: 250px;
+margin-right: 150px;
+font-weight: 700;
+font-size: 25px;
+text-align: right;
+color: #FFFFFF;
+}
+.title-p{
+    margin-right: 150px;
+margin-top: 20px;
+font-weight: 400;
+font-size: 16px;
+text-align: right;
+color: #FFFFFF;
+}
+.btn{
+    width: 170px;
+    height: 64px;
+    border-radius: 5px;
+    border: 0px;
+    margin-top: 20px;
+    font-size: 15px;
+    color:blue
+}
+/* main{
+    background-image: url(../images/person.png);
+    position: absolute;
+width: 569px;
+height: 723.3px;
+left: 206px;
+top: 939px;
+} */
+.my-picture{
+display: flex;
+gap: 30px;
+}
+.m-title{
+margin-top: 400px;
+font-weight: 700px;
+font-size: 30px;
+    color: #151414;
+    text-align:justify right;
+    margin-bottom: 50px;
+    margin-left: 220px;
+    margin-right: 100px;
+}
+.m-prgp{
+    margin-top: 20px;
+    margin-right: 15px;
+font-weight: 400;
+font-size: 16px;
+color: #444343;
+}
+.image-person{
+    margin: 150px 0px 0px 100px;
+}
+.material-symbols-outlined{
+    color: #16D887;
+    
+    width: 24px;
+height: 24px;
+}
+.my-plan{
+text-align: center;
+}
+.my-plan-icon{
+    display: flex;
+    gap: 50px;
+    margin: 20px 300px;
+}
+.other-picture{
+    background-image: url(../images/watch.png);
+    background-repeat:no-repeat;
+    padding: 115px 100px;
+    height: 300px;
+    margin: 100px 200px 100px;
+    border-radius: 10px;
+    border: 0px;
+
+}
+.future{
+    padding: 130px 0 0 120px;
+    font-weight: 700;
+    font-size: 45px;
+    margin-bottom: 16px;
+    color: #FFFFFF;
+}
+.future-paragraph{
+    padding-left: 120px;
+    margin-bottom: 24px;
+
+
+}
+.ending-icon{
+    margin-top: 32px;
+    padding-left: 120px;
+    margin-bottom: 20px;
+    gap: 40px
+    
+}
+footer{
+    background-color: black;
+    display: flex;
+    gap: 200px;
+}
+p{
+    color: #FFFFFF;
+}
+.subscribe{
+    text-align: justify;
+    margin-left: 120px;
+    
+}
+input{
+    margin: 20px;
+    font-weight: 400;
+font-size: 18px;
+width: 325px;
+height: 64px;
+margin-left: 120px;
+color: #FFFFFF;
+background-color: black;
+border: 1px solid white;
+border-radius: 10px;
+padding-left: 10px;
+}
+.btn-e{
+    margin-left: 120px;
+    font-style: normal;
+font-weight: 600;
+font-size: 20px;
+background: #005FAC;
+border-radius: 8px;
+width: 170.11px;
+height: 64px;
+color: #FFFFFF;
+}
